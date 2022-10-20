@@ -1,4 +1,4 @@
-Aage,travelTimeToWork,income,estrato,numberOfCars,costOfEducation,costOfFood,costOfTranspotation,costOfUtilities,costOfDebt,costOfRecreation,numberOfGroupsThatCookSeperatly,numberOfUsedBedrooms,numberOfPeopleInHousehold
+age,travelTimeToWork,income,estrato,numberOfCars,costOfEducation,costOfFood,costOfTranspotation,costOfUtilities,costOfDebt,costOfRecreation,numberOfGroupsThatCookSeperatly,numberOfUsedBedrooms,numberOfPeopleInHousehold
 42,,877803,4,1,80000,1300000,0,550000,0,100000,1,3,4
 38,De 21 a 40 minutos,877803,4,1,80000,1300000,0,550000,0,100000,1,3,4
 18,,,4,1,80000,1300000,0,550000,0,100000,1,3,4
